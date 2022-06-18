@@ -5,7 +5,7 @@
 using namespace std;
 
 class hash_table {
-
+    public:
 };
 
 int main() {
