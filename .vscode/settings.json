@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "stdexcept": "cpp",
+        "unordered_set": "cpp"
     }
 }
