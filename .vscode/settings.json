@@ -3,6 +3,10 @@
         "*.tcc": "cpp",
         "stdexcept": "cpp",
         "unordered_set": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "queue": "cpp"
     }
 }
